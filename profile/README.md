@@ -11,3 +11,6 @@ A Gente Criou a:
 [Kantalo](https://github.com/Skaylatk/Kantalo) - Linguagem de Programaçao.
 Estrelada(descontinuada) - Bate Papo Web.
 Nuclear - Painel feito em java para utilidades.
+
+---
+© 2024-2025 Skaylatk. Todos os direitos reservados.
