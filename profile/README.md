@@ -8,6 +8,6 @@ Somos Uma Equipe de desevolvimento de aplicaçoes open sourse.
 
 A Gente Criou a:
 
-Kantalo - Linguagem de Programaçao
-Estrelada(descontinuada) - Bate Papo Web
-Nuclear - Painel feito em java para utilidades
+[Kantalo](https://github.com/Skaylatk/Kantalo) - Linguagem de Programaçao.
+Estrelada(descontinuada) - Bate Papo Web.
+Nuclear - Painel feito em java para utilidades.
