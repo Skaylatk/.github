@@ -1,6 +1,7 @@
-# Skaylatk
+# ⭐ Skaylatk
+Empresa De aplicações Open Sourse
 
-## O Que Somos / What are we?
+## 🤔 O Que Somos / What are we?
 
 Somos Uma Equipe de desevolvimento de aplicaçoes open sourse.
 
@@ -8,9 +9,9 @@ Somos Uma Equipe de desevolvimento de aplicaçoes open sourse.
 
 A Gente Criou a:
 
-[Kantalo](https://github.com/Skaylatk/Kantalo) - Linguagem de Programaçao.
-Estrelada(descontinuada) - Bate Papo Web.
-Nuclear - Painel feito em java para utilidades.
+1. [Kantalo](https://github.com/Skaylatk/Kantalo) - Linguagem de Programaçao.
+2. Estrelada(descontinuada) - Bate Papo Web.
+3. Nuclear - Painel feito em java para utilidades.
 
 ---
 © 2024-2025 Skaylatk. Todos os direitos reservados.
