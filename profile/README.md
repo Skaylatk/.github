@@ -7,7 +7,7 @@ Somos Uma Equipe de desevolvimento de aplicaçoes open sourse.
 
 ## Voces Criaram Quais Projetos? / What projects have you created?
 
-A Gente Criou a:
+We create:
 
 1. [Kantalo](https://github.com/Skaylatk/Kantalo) - Linguagem de Programaçao.
 2. [Estrelada(descontinuada)](https://github.com/Skaylatk/estrelada) - Bate Papo Web.
