@@ -1,11 +1,10 @@
 # ⭐ Skaylatk
 > Empresa De aplicações Open Sourse
+---
 
 ## 🤔 O Que Somos / What are we?
 
 Somos Uma Equipe de desevolvimento de aplicaçoes open sourse.
-
-## Voces Criaram Quais Projetos? / What projects have you created?
 
 ## Nos Criamos / We create:
 
