@@ -15,7 +15,7 @@ Somos Uma Equipe de desevolvimento de aplicaçoes open sourse.
 4. [LABESK](https://github.com/Skaylatk/LABESK) - VIRUS
 5. [FIRESET](https://github.com/Skaylatk/Fireset) - Game Engine em C
 
-# Projetos Parceiros / Partner projects
+## Projetos Parceiros / Partner projects
 1. FIRESET](https://github.com/Skaylatk/Fireset) - Game Engine em C
 
 ---
