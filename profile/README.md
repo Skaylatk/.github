@@ -18,4 +18,4 @@ Somos Uma Equipe de desevolvimento de aplicaçoes open sourse.
 1. [FIRESET](https://github.com/Skaylatk/Fireset) - Game Engine em C
 
 ---
-© 2024-2025 Skaylatk. Todos os direitos reservados.
+© 2024-2026 Skaylatk. Todos os direitos reservados.
