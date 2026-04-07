@@ -1,5 +1,5 @@
 # ⭐ Skaylatk
-> Empresa De aplicações Open Sourse
+> Organização de Código Aberto(Open Sourse)
 ---
 
 ## 🤔 O Que Somos / What are we?
