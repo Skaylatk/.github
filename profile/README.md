@@ -1,4 +1,4 @@
-# ⭐ Skaylatk
+# ⭐ Skaylatk Organization.
 > Organização de Código Aberto(Open Sourse)
 ---
 
